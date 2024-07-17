@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://hormegil.github.io/sitemap
+Sitemap: https://hormegil.github.io/app/sitemap
+Sitemap: https://hormegil.github.io/assets/sitemap
+Sitemap: https://hormegil.github.io/css/sitemap
+Sitemap: https://hormegil.github.io/includes/sitemap
+Sitemap: https://hormegil.github.io/item/sitemap
+Sitemap: https://hormegil.github.io/src/sitemap
